@@ -10,7 +10,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 http://31785386944321106.niceome.xyz:80/play/va08271/4122744267/321106.ts
 
 #EXTINF:523 tvg-id="cuatro.es" tvg-name="CUATRO HD 1080P" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png",CUATRO HD 1080P
-http://31785386944321196.niceome.xyz:80/play/va08271/4122744267/321197.ts
+http://31785386944321196.niceome.xyz:80/play/va08271/4122744267/321196.ts
 
 #EXTINF:523 tvg-id="telecinco.es" tvg-name="TELECINCO HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png",TELECINCO HD 1080P
 http://31785386944321430.niceome.xyz:80/play/va08271/4122744267/321430.ts
@@ -86,3 +86,28 @@ http://31785386944321285.niceome.xyz:80/play/va08271/4122744267/321285.ts
 
 #EXTINF:-1 tvg-id="tcm.es" tvg-name="ES: TCM FHD" tvg-logo="https://miguia.tv/channels/big_146.png",ES: TCM FHD
 http://31785386944321425.niceome.xyz:80/play/va08271/4122744267/321425.ts
+
+#EXTINF:-1 tvg-id="HOLLYWOOD FHD" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="https://miguia.tv/channels/big_94.png",ES: HOLLYWOOD FHD
+http://31785386944321265.niceome.xyz:80/play/va08271/4122744267/321265.ts
+
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: XTRM FHD" tvg-logo="https://miguia.tv/channels/big_213.png",ES: XTRM FHD
+http://31785386944321476.niceome.xyz:80/play/va08271/4122744267/321476.ts
+
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES: SUNDANCE FHD" tvg-logo="https://miguia.tv/channels/big_194.png",ES: SUNDANCE FHD
+http://31785386944321418.niceome.xyz:80/play/va08271/4122744267/321418.ts
+
+#EXTINF:-1 tvg-id="Dark" tvg-name="ES: CANAL DARK FHD" tvg-logo="https://fest.darktv.es/media/concursos/darkfest/img/darkfoot.png",ES: CANAL DARK FHD
+http://31785386944321150.niceome.xyz:80/play/va08271/4122744267/321150.ts
+
+#EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS FHD" tvg-logo="https://canalsomos.es/wp-content/themes/canalsomos/images/somos-logo.png",ES: SOMOS FHD
+http://31785386944321412.niceome.xyz:80/play/va08271/4122744267/321412.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOM CINE HD" tvg-logo="https://miguia.tv/channels/big_307.png",ES: BOM CINE HD
+http://31785386944321136.niceome.xyz:80/play/va08271/4122744267/321136.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT NETWORK FHD" tvg-logo="https://miguia.tv/channels/big_133.png",ES: PARAMOUNT NETWORK FHD
+http://31785386944389856.niceome.xyz:80/play/va08271/4122744267/389856.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTE SD" tvg-logo="http://meteoalcorcon.es/1_0_1_76A3_41E_1_C00000_0_0_0.png" group-title="ES DEPORTES",ES: MULTIDEPORTE SD
+http://31785386944165446.niceome.xyz:80/play/va08271/4122744267/165446.ts
+
