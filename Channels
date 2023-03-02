@@ -57,8 +57,8 @@ http://31785386944228388.niceome.xyz:80/play/va08271/4122744267/228388.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 3 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-3-espana-es.png",ES: M+ DAZN 3 FHD
 http://31785386944228393.niceome.xyz:80/play/va08271/4122744267/228393.ts
 
-#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name="ES: M+ ESTRENOS HD" tvg-logo="https://miguia.tv/channels/big_274.png",ES: M+ ESTRENOS HD
-http://31785386944321338.niceome.xyz:80/play/va08271/4122744267/321338.ts
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M+ ESTRENOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1",ES: M+ ESTRENOS FHD
+http://31785386944321337.niceome.xyz:80/play/va08271/4122744267/321337.ts
 
 #EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="ES: M+ ESTRENOS 2 HD" tvg-logo="https://miguia.tv/channels/big_338.png",ES: M+ ESTRENOS 2 HD
 http://31785386944321335.niceome.xyz:80/play/va08271/4122744267/321335.ts
