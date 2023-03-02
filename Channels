@@ -62,3 +62,27 @@ http://31785386944321338.niceome.xyz:80/play/va08271/4122744267/321338.ts
 
 #EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="ES: M+ ESTRENOS 2 HD" tvg-logo="https://miguia.tv/channels/big_338.png",ES: M+ ESTRENOS 2 HD
 http://31785386944321335.niceome.xyz:80/play/va08271/4122744267/321335.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CLASICOS HD" tvg-logo="https://miguia.tv/channels/big_342.png",ES: M+ CLASICOS HD
+http://31785386944321315.niceome.xyz:80/play/va08271/4122744267/321315.ts
+
+#EXTINF:-1 tvg-id="M. ACCION FHD" tvg-name="ES: M+ ACCION FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPACCI",ES: M+ ACCION FHD
+http://31785386944321305.niceome.xyz:80/play/va08271/4122744267/321305.ts
+
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: M+ COMEDIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png",ES: M+ COMEDIA FHD
+http://31785386944321317.niceome.xyz:80/play/va08271/4122744267/321317.ts
+
+#EXTINF:-1 tvg-id="mdrama.es" tvg-name="ES: M+ DRAMA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png",ES: M+ DRAMA FHD
+http://31785386944321331.niceome.xyz:80/play/va08271/4122744267/321331.ts
+
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="ES: M+ CINE N FHD" tvg-logo="https://miguia.tv/channels/big_67.png",ES: M+ CINE N FHD
+http://31785386944336345.niceome.xyz:80/play/va08271/4122744267/336345.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ FEST FHD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2020/06/movistarfest.png",ES: M+ FEST FHD
+http://31785386944321340.niceome.xyz:80/play/va08271/4122744267/321340.ts
+
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="ES: LA RESISTENCIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png",ES: LA RESISTENCIA FHD
+http://31785386944321285.niceome.xyz:80/play/va08271/4122744267/321285.ts
+
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES: TCM FHD" tvg-logo="https://miguia.tv/channels/big_146.png",ES: TCM FHD
+http://31785386944321425.niceome.xyz:80/play/va08271/4122744267/321425.ts
