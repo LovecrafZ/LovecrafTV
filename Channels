@@ -1,7 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png",ES: LA 1 FHD
-http://31785386944321276.niceome.xyz:80/play/va08271/4122744267/321276.ts
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png",ES: LA 1 HD
+http://31785386944321277.niceome.xyz:80/play/va08271/4122744267/321277.ts
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LA 2 FHD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="ES   MOVISTAR+",ES: LA 2 FHD
 http://31785386944321279.niceome.xyz:80/play/va08271/4122744267/321279.ts
@@ -107,5 +107,6 @@ http://31785386944411276.niceome.xyz:80/play/va08271/4122744267/411276.ts
 
 #EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="ES: M+ SERIESMANIA FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-multideporte-es.png?raw=true",ES: M+ SERIESMANIA FHD
 http://31785386944321350.niceome.xyz:80/play/va08271/4122744267/321350.ts
+
 
 
