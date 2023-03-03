@@ -1,16 +1,15 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png",ES: LA 1 FHD
+http://31785386944321276.niceome.xyz:80/play/va08271/4122744267/321276.ts
 
-#EXTINF:523 tvg-id="la1.es" tvg-name="LA 1 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png",LA 1 HD 1080P
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-
-#EXTINF:523 tvg-id="la2.es" tvg-name="LA 2 HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png",LA 2 HD 1080P
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+http://31785386944321278.niceome.xyz:80/play/va08271/4122744267/321278.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LA 2 FHD" tvg-logo="https://miguia.tv/channels/big_99.png",ES: LA 2 FHD
 
 #EXTINF:523 tvg-id="antena3.es" tvg-name="ANTENA 3 HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png",ANTENA 3 HD 1080P
 http://31785386944321106.niceome.xyz:80/play/va08271/4122744267/321106.ts
 
-#EXTINF:523 tvg-id="cuatro.es" tvg-name="CUATRO HD 1080P" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png",CUATRO HD 1080P
-http://31785386944321196.niceome.xyz:80/play/va08271/4122744267/321196.ts
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO HD" tvg-logo="https://miguia.tv/channels/big_65.png",ES: CUATRO HD
+http://31785386944321197.niceome.xyz:80/play/va08271/4122744267/321197.ts
 
 #EXTINF:523 tvg-id="telecinco.es" tvg-name="TELECINCO HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png",TELECINCO HD 1080P
 http://31785386944321430.niceome.xyz:80/play/va08271/4122744267/321430.ts
@@ -18,8 +17,8 @@ http://31785386944321430.niceome.xyz:80/play/va08271/4122744267/321430.ts
 #EXTINF:523 tvg-id="lasexta.es" tvg-name="LA SEXTA HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png",LA SEXTA HD 1080P
 http://31785386944321289.niceome.xyz:80/play/va08271/4122744267/321289.ts
 
-#EXTINF:523 tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200",Telemadrid
-http://31785386944336368.niceome.xyz:80/play/va08271/4122744267/336365.ts
+#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-name="ES: TELE MADRID SD" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png",ES: TELE MADRID SD
+http://31785386944336368.niceome.xyz:80/play/va08271/4122744267/336368.ts
 
 #EXTINF:523 tvg-id="La Otra" tvg-name="LA OTRA" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laotra.png" ,La Otra (ES)
 http://31785386944316864.niceome.xyz:80/play/va08271/4122744267/316864.ts
@@ -27,11 +26,8 @@ http://31785386944316864.niceome.xyz:80/play/va08271/4122744267/316864.ts
 #EXTINF:523 tvg-id="M+ #0 HD" tvg-name="#0 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png",#0 HD 1080P
 http://31785386944321068.niceome.xyz:80/play/va08271/4122744267/321068.ts
 
-#EXTINF:523 tvg-id="M+ #VAMOSHD" tvg-name="#VAMOS HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2880px-Vamos.svg.png",#VAMOS HD 1080P
-http://31785386944321072.niceome.xyz:80/play/va08271/4122744267/321072.ts
-
 #EXTINF:523 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA HD 1080P" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png",CANAL COCINA HD 1080P
-http://31785386944321147.niceome.xyz:80/play/va08271/4122744267/321147.ts
+http://31785386944321147.niceome.xyz:80/play/va08271/4122744267/321148.ts
 
 #EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="ES: CANAL HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" +",ES: CANAL HISTORIA FHD
 http://31785386944321156.niceome.xyz:80/play/va08271/4122744267/321156.ts
@@ -48,13 +44,13 @@ http://31785386944165449.niceome.xyz:80/play/va08271/4122744267/165449.ts
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png",ES: M LALIGA FHD
 http://31785386944165385.niceome.xyz:80/play/va08271/4122744267/165385.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 1 HD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg",ES: M+ DAZN 1 HD
-http://31785386944228385.niceome.xyz:80/play/va08271/4122744267/228385.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 1 FHD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg",ES: M+ DAZN 1 FHD
+http://31785386944373766.niceome.xyz:80/play/va08271/4122744267/373766.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 2 HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png",ES: M+ DAZN 2 HD
-http://31785386944228388.niceome.xyz:80/play/va08271/4122744267/228388.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 2 FHD (H265) HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png",ES: M+ DAZN 2 FHD (H265) HD
+http://31785386944228391.niceome.xyz:80/play/va08271/4122744267/228391.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 3 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-3-espana-es.png",ES: M+ DAZN 3 FHD
+#E#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 3 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-3-espana-es.png",ES: M+ DAZN 3 FHD
 http://31785386944228393.niceome.xyz:80/play/va08271/4122744267/228393.ts
 
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M+ ESTRENOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1",ES: M+ ESTRENOS FHD
@@ -105,9 +101,10 @@ http://31785386944321412.niceome.xyz:80/play/va08271/4122744267/321412.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: BOM CINE HD" tvg-logo="https://miguia.tv/channels/big_307.png",ES: BOM CINE HD
 http://31785386944321136.niceome.xyz:80/play/va08271/4122744267/321136.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT NETWORK FHD" tvg-logo="https://miguia.tv/channels/big_133.png",ES: PARAMOUNT NETWORK FHD
-http://31785386944389856.niceome.xyz:80/play/va08271/4122744267/389856.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT NETWORK HD" tvg-logo="",ES: PARAMOUNT NETWORK HD
+http://31785386944411276.niceome.xyz:80/play/va08271/4122744267/411276.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTE SD" tvg-logo="http://meteoalcorcon.es/1_0_1_76A3_41E_1_C00000_0_0_0.png",ES: MULTIDEPORTE SD
-http://31785386944165446.niceome.xyz:80/play/va08271/4122744267/165446.ts
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="ES: M+ SERIESMANIA FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-multideporte-es.png?raw=true",ES: M+ SERIESMANIA FHD
+http://31785386944321350.niceome.xyz:80/play/va08271/4122744267/321350.ts
+
 
