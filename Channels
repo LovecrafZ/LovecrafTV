@@ -68,6 +68,12 @@ http://31785386944321317.niceome.xyz:80/play/va08271/4122744267/321317.ts
 #EXTINF:-1 tvg-id="mdrama.es" tvg-name="ES: M+ DRAMA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png",ES: M+ DRAMA FHD
 http://31785386944321331.niceome.xyz:80/play/va08271/4122744267/321331.ts
 
+#EXTINF:-1 tvg-id="mdrama.es" tvg-name="ES: M+ DRAMA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png",ES: M+ DRAMA FHD
+http://31785386944321331.niceome.xyz:80/play/va08271/4122744267/321332.ts
+
+#EXTINF:-1 tvg-id="mdrama.es" tvg-name="ES: M+ DRAMA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png",ES: M+ DRAMA FHD
+http://31785386944321331.niceome.xyz:80/play/va08271/4122744267/321333.ts
+
 #EXTINF:-1 tvg-id="movistardcine.es" tvg-name="ES: M+ CINE N FHD" tvg-logo="https://miguia.tv/channels/big_67.png",ES: M+ CINE N FHD
 http://31785386944336345.niceome.xyz:80/play/va08271/4122744267/336345.ts
 
