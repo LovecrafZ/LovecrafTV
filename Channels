@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png",ES: LA 1 HD
 http://31785386944321277.niceome.xyz:80/play/va08271/4122744267/321277.ts
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LA 2 FHD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="ES   MOVISTAR+",ES: LA 2 FHD
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LA 2 FHD" tvg-logo="https://miguia.tv/channels/big_99.png",ES: LA 2 FHD
 http://31785386944321279.niceome.xyz:80/play/va08271/4122744267/321279.ts
 
 #EXTINF:523 tvg-id="antena3.es" tvg-name="ANTENA 3 HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png",ANTENA 3 HD 1080P
@@ -53,8 +53,8 @@ http://31785386944228393.niceome.xyz:80/play/va08271/4122744267/228393.ts
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M+ ESTRENOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1",ES: M+ ESTRENOS FHD
 http://31785386944321337.niceome.xyz:80/play/va08271/4122744267/321337.ts
 
-#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="ES: M+ ESTRENOS 2 HD" tvg-logo="https://miguia.tv/channels/big_338.png",ES: M+ ESTRENOS 2 HD
-http://31785386944321335.niceome.xyz:80/play/va08271/4122744267/321335.ts
+#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="ES: M+ ESTRENOS 2 FHD" tvg-logo="https://miguia.tv/channels/big_338.png",ES: M+ ESTRENOS 2 FHD
+http://31785386944321334.niceome.xyz:80/play/va08271/4122744267/321334.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ CLASICOS HD" tvg-logo="https://miguia.tv/channels/big_342.png",ES: M+ CLASICOS HD
 http://31785386944321315.niceome.xyz:80/play/va08271/4122744267/321315.ts
