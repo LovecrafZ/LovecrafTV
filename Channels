@@ -18,10 +18,10 @@ http://31785386944321430.niceome.xyz:80/play/va08271/4122744267/321430.ts
 #EXTINF:523 tvg-id="lasexta.es" tvg-name="LA SEXTA HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png",LA SEXTA HD 1080P
 http://31785386944321289.niceome.xyz:80/play/va08271/4122744267/321289.ts
 
-#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-name="ES: TELE MADRID SD" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png",ES: TELE MADRID SD
-http://31785386944336368.niceome.xyz:80/play/va08271/4122744267/336368.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEMADRID HD" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200",ES: TELEMADRID HD
+http://31785386944165351.niceome.xyz:80/play/va08271/4122744267/165351.ts
 
-#EXTINF:523 tvg-id="La Otra" tvg-name="LA OTRA" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laotra.png",La Otra (ES)
+#EXTINF:-1 tvg-id="LaOtra.TV" tvg-name="ES: LAOTRA HD" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg",ES: LAOTRA HD
 http://31785386944316864.niceome.xyz:80/play/va08271/4122744267/316864.ts
 
 #EXTINF:523 tvg-id="M+ #0 HD" tvg-name="#0 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png",#0 HD 1080P
