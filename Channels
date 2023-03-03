@@ -18,11 +18,7 @@ http://31785386944321430.niceome.xyz:80/play/va08271/4122744267/321430.ts
 #EXTINF:523 tvg-id="lasexta.es" tvg-name="LA SEXTA HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png",LA SEXTA HD 1080P
 http://31785386944321289.niceome.xyz:80/play/va08271/4122744267/321289.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELEMADRID FHD" tvg-logo="",ES: TELEMADRID FHD
-http://31785386944381757.niceome.xyz:80/play/va08271/4122744267/381757.ts
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LAOTRA SD" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/La-Otra-en-directo.png" MOVISTAR+",ES: LAOTRA SD
-http://31785386944336339.niceome.xyz:80/play/va08271/4122744267/336339.ts
 
 #EXTINF:523 tvg-id="M+ #0 HD" tvg-name="#0 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png",#0 HD 1080P
 http://31785386944321068.niceome.xyz:80/play/va08271/4122744267/321068.ts
