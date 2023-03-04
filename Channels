@@ -9,19 +9,9 @@ http://176.57.50.167:25461/lisastone/pumpkin1234/85858
 #EXTINF:523 tvg-id="antena3.es" tvg-name="ANTENA 3 HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png",ANTENA 3 HD 1080P
 http://31785386944321106.niceome.xyz:80/play/va08271/4122744267/321105.ts
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: CUATRO FHD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ES   MOVISTAR+",ES: CUATRO FHD
-http://176.57.50.167:25461/lisastone/pumpkin1234/85860
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: CUATRO FHD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ES   MOVISTAR+",ES: CUATRO FHD
-http://31785386944321196.niceome.xyz:80/play/va08271/4122744267/321196.ts
 
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO HD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ES   MOVISTAR+",ES: CUATRO HD
-http://31785386944321197.niceome.xyz:80/play/va08271/4122744267/321197.ts
-
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="ES   MOVISTAR+",ES: CUATRO SD
-http://31785386944321198.niceome.xyz:80/play/va08271/4122744267/321198.ts
-
-#EXTINF:0 tvg-id="" tvg-name="ES - LA CUATRO" tvg-logo="https://cadenaser00.epimg.net/ser/imagenes/2018/02/16/television/1518793828_982795_1518794986_noticia_normal.jpg" group-title="ESPAÑA",ES - LA CUATRO
+#EXTINF:0 tvg-id="" tvg-name="ES - LA CUATRO" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="ESPAÑA",ES - LA CUATRO
 http://50.7.66.234:8080/nancyesp/6969/17191
 
 
