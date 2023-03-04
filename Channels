@@ -1,12 +1,6 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 FHD
-http://31785386944321276.niceome.xyz:80/play/va08271/4122744267/321276.ts
-
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 HD
-http://31785386944321277.niceome.xyz:80/play/va08271/4122744267/321277.ts
-
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 SD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 SD
 http://31785386944321278.niceome.xyz:80/play/va08271/4122744267/321278.ts
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LA 2 FHD" tvg-logo="https://miguia.tv/channels/big_99.png",ES: LA 2 FHD
