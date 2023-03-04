@@ -33,6 +33,9 @@ http://31785386944321071.niceome.xyz:80/play/va08271/4122744267/321071.ts
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",ES: DAZN FORMULA 1 HD
 http://31785386944165419.niceome.xyz:80/play/va08271/4122744267/165419.ts
 
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",ES: DAZN FORMULA 1 HD
+http://31785386944165257.niceome.xyz:80/play/va08271/4122744267/165257.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: GOL TV HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png",ES: GOL TV HD
 http://31785386944165449.niceome.xyz:80/play/va08271/4122744267/165449.ts
 
