@@ -34,6 +34,20 @@ http://31785386944321147.niceome.xyz:80/play/va08271/4122744267/321148.ts
 #EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="ES: CANAL HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" +",ES: CANAL HISTORIA FHD
 http://31785386944321156.niceome.xyz:80/play/va08271/4122744267/321156.ts
 
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="ES   MOVISTAR+",ES: HISTORIA HD
+http://31785386944339761.niceome.xyz:80/play/va08271/4122744267/339761.ts
+
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA FHD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="ES   MOVISTAR+",ES: HISTORIA FHD
+http://31785386944336326.niceome.xyz:80/play/va08271/4122744267/336326.ts
+
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA SD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="ES   MOVISTAR+",ES: HISTORIA SD
+http://31785386944321262.niceome.xyz:80/play/va08271/4122744267/321262.ts
+
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="ES: CANAL HISTORIA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="ES   MOVISTAR+",ES: CANAL HISTORIA SD
+http://31785386944321158.niceome.xyz:80/play/va08271/4122744267/321158.ts
+
+
+
 #EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD",ES: #VAMOS FHD
 http://31785386944321071.niceome.xyz:80/play/va08271/4122744267/321071.ts
 
