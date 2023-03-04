@@ -9,21 +9,14 @@ http://176.57.50.167:25461/lisastone/pumpkin1234/85858
 #EXTINF:523 tvg-id="antena3.es" tvg-name="ANTENA 3 HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png",ANTENA 3 HD 1080P
 http://31785386944321106.niceome.xyz:80/play/va08271/4122744267/321105.ts
 
-
-
 #EXTINF:0 tvg-id="" tvg-name="ES - LA CUATRO" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="ESPAÑA",ES - LA CUATRO
 http://50.7.66.234:8080/nancyesp/6969/17191
-
 
 #EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name="ES: TELECINCO FHD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="ES   MOVISTAR+",ES: TELECINCO FHD
 http://31785386944321429.niceome.xyz:80/play/va08271/4122744267/321429.ts
 
-
-
 #EXTINF:523 tvg-id="lasexta.es" tvg-name="LA SEXTA HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png",LA SEXTA HD 1080P
 http://176.57.50.167:25461/lisastone/pumpkin1234/85862
-
-
 
 #EXTINF:523 tvg-id="M+ #0 HD" tvg-name="#0 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png",#0 HD 1080P
 http://31785386944321068.niceome.xyz:80/play/va08271/4122744267/321068.ts
@@ -31,22 +24,8 @@ http://31785386944321068.niceome.xyz:80/play/va08271/4122744267/321068.ts
 #EXTINF:523 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA HD 1080P" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png",CANAL COCINA HD 1080P
 http://31785386944321147.niceome.xyz:80/play/va08271/4122744267/321148.ts
 
-#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="ES: CANAL HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" +",ES: CANAL HISTORIA FHD
-http://31785386944321156.niceome.xyz:80/play/va08271/4122744267/321156.ts
-
 #EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="ES   MOVISTAR+",ES: HISTORIA HD
 http://31785386944339761.niceome.xyz:80/play/va08271/4122744267/339761.ts
-
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA FHD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="ES   MOVISTAR+",ES: HISTORIA FHD
-http://31785386944336326.niceome.xyz:80/play/va08271/4122744267/336326.ts
-
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA SD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="ES   MOVISTAR+",ES: HISTORIA SD
-http://31785386944321262.niceome.xyz:80/play/va08271/4122744267/321262.ts
-
-#EXTINF:-1 tvg-id="HISTORIA" tvg-name="ES: CANAL HISTORIA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="ES   MOVISTAR+",ES: CANAL HISTORIA SD
-http://31785386944321158.niceome.xyz:80/play/va08271/4122744267/321158.ts
-
-
 
 #EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD",ES: #VAMOS FHD
 http://31785386944321071.niceome.xyz:80/play/va08271/4122744267/321071.ts
