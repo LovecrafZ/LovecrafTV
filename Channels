@@ -10,13 +10,7 @@ http://31785386944321279.niceome.xyz:80/play/va08271/4122744267/321279.ts
 http://31785386944321106.niceome.xyz:80/play/va08271/4122744267/321105.ts
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: CUATRO FHD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ES   MOVISTAR+",ES: CUATRO FHD
-http://31785386944321196.niceome.xyz:80/play/va08271/4122744267/321196.ts
-
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO HD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ES   MOVISTAR+",ES: CUATRO HD
-http://31785386944321197.niceome.xyz:80/play/va08271/4122744267/321197.ts
-
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="ES   MOVISTAR+",ES: CUATRO SD
-http://31785386944321198.niceome.xyz:80/play/va08271/4122744267/321198.ts
+http://176.57.50.167:25461/lisastone/pumpkin1234/85860
 
 #EXTINF:523 tvg-id="telecinco.es" tvg-name="TELECINCO HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png",TELECINCO HD 1080P
 http://31785386944321430.niceome.xyz:80/play/va08271/4122744267/321430.ts
