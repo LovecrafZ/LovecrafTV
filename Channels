@@ -39,6 +39,27 @@ http://31785386944165449.niceome.xyz:80/play/va08271/4122744267/165449.ts
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png",ES: M LALIGA FHD
 http://31785386944165385.niceome.xyz:80/play/va08271/4122744267/165385.ts
 
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  MOVISTAR + LALIGA",ES: M LALIGA FHD
+http://31785386944165385.niceome.xyz:80/play/va08271/4122744267/165385.ts
+
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  MOVISTAR + LALIGA",ES: M LALIGA HD
+http://31785386944165392.niceome.xyz:80/play/va08271/4122744267/165392.ts
+
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M LALIGA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  MOVISTAR + LALIGA",ES: M LALIGA SD
+http://31785386944165393.niceome.xyz:80/play/va08271/4122744267/165393.ts
+
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA LIGA FHD (H 265)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  MOVISTAR + LALIGA",ES: LA LIGA FHD (H 265)
+http://31785386944262413.niceome.xyz:80/play/va08271/4122744267/262413.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA MULTI 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES  MOVISTAR + LALIGA",ES: M LALIGA MULTI 1 HD
+http://31785386944165396.niceome.xyz:80/play/va08271/4122744267/165396.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA MULTI 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png" group-title="ES  MOVISTAR + LALIGA",ES: M LALIGA MULTI 2 HD
+http://31785386944165398.niceome.xyz:80/play/va08271/4122744267/165398.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA MULTI 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="ES  MOVISTAR + LALIGA",ES: M LALIGA MULTI 3 HD
+http://31785386944165400.niceome.xyz:80/play/va08271/4122744267/165400.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 1 FHD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg",ES: M+ DAZN 1 FHD
 http://31785386944373766.niceome.xyz:80/play/va08271/4122744267/373766.ts
 
