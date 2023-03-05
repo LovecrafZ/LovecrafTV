@@ -1,21 +1,21 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 FHD
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Generalistas",ES: LA 1 FHD
 http://176.57.50.167:25461/lisastone/pumpkin1234/85857
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LA 2 FHD" tvg-logo="https://miguia.tv/channels/big_99.png",ES: LA 2 FHD
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LA 2 FHD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="Generalistas",ES: LA 2 FHD
 http://176.57.50.167:25461/lisastone/pumpkin1234/85858
 
-#EXTINF:523 tvg-id="antena3.es" tvg-name="ANTENA 3 HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png",ANTENA 3 HD 1080P
+#EXTINF:523 tvg-id="antena3.es" tvg-name="ANTENA 3 HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="Generalistas",ANTENA 3 HD 1080P
 http://31785386944321106.niceome.xyz:80/play/va08271/4122744267/321105.ts
 
-#EXTINF:0 tvg-id="" tvg-name="ES - LA CUATRO" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="ESPAÑA",ES - LA CUATRO
+#EXTINF:0 tvg-id="" tvg-name="ES - LA CUATRO" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="Generalistas",ES - LA CUATRO
 http://50.7.66.234:8080/nancyesp/6969/17191
 
-#EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name="ES: TELECINCO FHD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="ES   MOVISTAR+",ES: TELECINCO FHD
+#EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name="ES: TELECINCO FHD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="Generalistas",ES: TELECINCO FHD
 http://31785386944321429.niceome.xyz:80/play/va08271/4122744267/321429.ts
 
-#EXTINF:523 tvg-id="lasexta.es" tvg-name="LA SEXTA HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png",LA SEXTA HD 1080P
+#EXTINF:523 tvg-id="lasexta.es" tvg-name="LA SEXTA HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Generalistas",LA SEXTA HD 1080P
 http://176.57.50.167:25461/lisastone/pumpkin1234/85862
 
 #EXTINF:523 tvg-id="M+ #0 HD" tvg-name="#0 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png",#0 HD 1080P
