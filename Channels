@@ -13,15 +13,15 @@ http://176.57.50.167:25461/lisastone/pumpkin1234/85858
 http://82674669190321279.niceome.xyz:80/play/va08271/4122744267/321279.ts
 
 
-#EXTINF:-1 tvg-id="Antena3." tvg-name="ANTENA 3" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="Generalistas",ANTENA 3
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="Generalistas",ANTENA 3
 http://31785386944321106.niceome.xyz:80/play/va08271/4122744267/321105.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CUATRO" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="Generalistas",CUATRO
+#EXTINF:-1 tvg-id="CUATRO" tvg-name="CUATRO" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="Generalistas",CUATRO
 http://50.7.66.234:8080/nancyesp/6969/17191
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CUATRO" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="Generalistas",CUATRO
+#EXTINF:-1 tvg-id="CUATRO" tvg-name="CUATRO" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="Generalistas",CUATRO
 http://82674669190321196.niceome.xyz:80/play/va08271/4122744267/321196.ts
 
 
@@ -33,7 +33,7 @@ http://31785386944321429.niceome.xyz:80/play/va08271/4122744267/321429.ts
 http://82674669190321430.niceome.xyz:80/play/va08271/4122744267/321430.ts
 
 
-#EXTINF:-1 tvg-id="Lasexta" tvg-name="LA SEXTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Generalistas",LA SEXTA
+#EXTINF:-1 tvg-id="LaSexta" tvg-name="LA SEXTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Generalistas",LA SEXTA
 http://176.57.50.167:25461/lisastone/pumpkin1234/85862
 
 
@@ -43,25 +43,25 @@ http://31785386944321068.niceome.xyz:80/play/va08271/4122744267/321068.ts
 
 
 
-#EXTINF:-1 tvg-id="M+ Estrenos" tvg-name="M+ ESTRENOS" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1",ES: M+ ESTRENOS
+#EXTINF:-1 tvg-id="M+ Estrenos" tvg-name="M+ ESTRENOS" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1",M+ ESTRENOS
 http://31785386944321337.niceome.xyz:80/play/va08271/4122744267/321337.ts
 
-#EXTINF:-1 tvg-id="M. ESTRENOS 2" tvg-name="M+ ESTRENOS 2" tvg-logo="https://miguia.tv/channels/big_338.png",ES: M+ ESTRENOS 2
+#EXTINF:-1 tvg-id="M. ESTRENOS 2" tvg-name="M+ ESTRENOS 2" tvg-logo="https://miguia.tv/channels/big_338.png",M+ ESTRENOS 2
 http://31785386944321334.niceome.xyz:80/play/va08271/4122744267/321334.ts
 
 #EXTINF:-1 tvg-id="M+ CLASICOS" tvg-name="M+ CLASICOS" tvg-logo="https://miguia.tv/channels/big_342.png",M+ CLASICOS
 http://31785386944321315.niceome.xyz:80/play/va08271/4122744267/321315.ts
 
-#EXTINF:-1 tvg-id="M. ACCION" tvg-name="M+ ACCION" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPACCI",M+ ACCION
+#EXTINF:-1 tvg-id="M+ ACCION" tvg-name="M+ ACCION" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPACCI",M+ ACCION
 http://31785386944321305.niceome.xyz:80/play/va08271/4122744267/321305.ts
 
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png",M+ COMEDIA
+#EXTINF:-1 tvg-id="M+ COMEDIA" tvg-name="M+ COMEDIA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png",M+ COMEDIA
 http://31785386944321317.niceome.xyz:80/play/va08271/4122744267/321317.ts
 
-#EXTINF:-1 tvg-id="mdrama.es" tvg-name="M+ DRAMA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png",ES: M+ DRAMA
+#EXTINF:-1 tvg-id="M+ DRAMA" tvg-name="M+ DRAMA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png",M+ DRAMA
 http://31785386944321331.niceome.xyz:80/play/va08271/4122744267/321331.ts
 
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE N" tvg-logo="https://miguia.tv/channels/big_67.png",M+ CINE N 
+#EXTINF:-1 tvg-id="M+ CINE N" tvg-name="M+ CINE N" tvg-logo="https://miguia.tv/channels/big_67.png",M+ CINE N 
 http://31785386944336345.niceome.xyz:80/play/va08271/4122744267/336345.ts
 
 #EXTINF:-1 tvg-id="M+ FEST" tvg-name="M+ FEST" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2020/06/movistarfest.png",M+ FEST
@@ -71,39 +71,39 @@ http://31785386944321340.niceome.xyz:80/play/va08271/4122744267/321340.ts
 http://31785386944321285.niceome.xyz:80/play/va08271/4122744267/321285.ts
 
 
-#EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM" tvg-logo="https://miguia.tv/channels/big_146.png",TCM
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://miguia.tv/channels/big_146.png",TCM
 http://31785386944321425.niceome.xyz:80/play/va08271/4122744267/321425.ts
 
-#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="https://miguia.tv/channels/big_94.png",HOLLYWOOD
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="HOLLYWOOD" tvg-logo="https://miguia.tv/channels/big_94.png",HOLLYWOOD
 http://31785386944321265.niceome.xyz:80/play/va08271/4122744267/321265.ts
 
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="XTRM" tvg-logo="https://miguia.tv/channels/big_213.png",XTRM
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM" tvg-logo="https://miguia.tv/channels/big_213.png",XTRM
 http://31785386944321476.niceome.xyz:80/play/va08271/4122744267/321476.ts
 
-#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE FHD" tvg-logo="https://miguia.tv/channels/big_194.png",SUNDANCE
+#EXTINF:-1 tvg-id="SUNDANCE" tvg-name="SUNDANCE" tvg-logo="https://miguia.tv/channels/big_194.png",SUNDANCE
 http://31785386944321418.niceome.xyz:80/play/va08271/4122744267/321418.ts
 
-#EXTINF:-1 tvg-id="Dark" tvg-name="DARK" tvg-logo="https://fest.darktv.es/media/concursos/darkfest/img/darkfoot.png",DARK
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK" tvg-logo="https://fest.darktv.es/media/concursos/darkfest/img/darkfoot.png",DARK
 http://31785386944321150.niceome.xyz:80/play/va08271/4122744267/321150.ts
 
-#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS" tvg-logo="https://canalsomos.es/wp-content/themes/canalsomos/images/somos-logo.png",SOMOS
+#EXTINF:-1 tvg-id="SOMOS" tvg-name="SOMOS" tvg-logo="https://canalsomos.es/wp-content/themes/canalsomos/images/somos-logo.png",SOMOS
 http://31785386944321412.niceome.xyz:80/play/va08271/4122744267/321412.ts
 
 #EXTINF:-1 tvg-id="BOM" tvg-name="BOM" tvg-logo="https://miguia.tv/channels/big_307.png",BOM
 http://31785386944321136.niceome.xyz:80/play/va08271/4122744267/321136.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://www.nicepng.com/png/full/141-1417548_1-tvg-logo-https-paramount-television-logo-png.png",ES: PARAMOUNT NETWORK HD
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://www.nicepng.com/png/full/141-1417548_1-tvg-logo-https-paramount-television-logo-png.png",PARAMOUNT NETWORK
 http://31785386944411276.niceome.xyz:80/play/va08271/4122744267/411276.ts
 
 
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png",CANAL COCINA
 http://31785386944321147.niceome.xyz:80/play/va08271/4122744267/321148.ts
 
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="ES   MOVISTAR+",HISTORIA
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="MOVISTAR+",HISTORIA
 http://31785386944339761.niceome.xyz:80/play/va08271/4122744267/339761.ts
 
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD",#VAMOS
+#EXTINF:-1 tvg-id="VAMOS" tvg-name="#VAMOS" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD",#VAMOS
 http://31785386944321071.niceome.xyz:80/play/va08271/4122744267/321071.ts
 
 
@@ -130,9 +130,6 @@ http://31785386944262413.niceome.xyz:80/play/va08271/4122744267/262413.ts
 
 #EXTINF:-1 tvg-id="M LALIGA" tvg-name="M LA LIGA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="MOVISTAR FUTBOL",M LA LIGA
 http://50.7.66.234:8080/nancyesp/6969/1115758
-
-#EXTINF:-1 tvg-id="M LALIGA" tvg-name="M LA LIGA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="MOVISTAR FUTBOL",M LA LIGA
-http://50.7.66.234:8080/nancyesp/6969/32365
 
 #EXTINF:-1 tvg-id="M LALIGA" tvg-name="M LA LIGA MULTI 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="MOVISTAR FUTBOL",M LA LIGA MULTI 1
 http://31785386944165396.niceome.xyz:80/play/va08271/4122744267/165396.ts
@@ -183,6 +180,9 @@ http://31785386944320782.niceome.xyz:80/play/va08271/4122744267/320782.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="DAZN",DAZN LALIGA 
 http://31785386944320780.niceome.xyz:80/play/va08271/4122744267/320780.ts
+
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LALIGA" tvg-logo="DAZN LALIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="MOVISTAR FUTBOL",DAZN LALIGA
+http://50.7.66.234:8080/nancyesp/6969/32365
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="DAZN",DAZN LALIGA 2 
 http://31785386944320779.niceome.xyz:80/play/va08271/4122744267/320779.ts
