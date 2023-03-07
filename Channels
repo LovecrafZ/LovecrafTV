@@ -133,23 +133,27 @@ http://31785386944321071.niceome.xyz:80/play/va08271/4122744267/321071.ts
 http://31785386944340037.niceome.xyz:80/play/va08271/4122744267/340037.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN HD" tvg-logo="" group-title="ES   MOVISTAR+",ES: ESPN HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN HD" tvg-logo="https://logodix.com/logo/243375.png" group-title="ESPN",ESPN 
 http://31785386944329144.niceome.xyz:80/play/va08271/4122744267/329144.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN DEPORTES FHD" tvg-logo="" group-title="ES DEPORTES",ES: ESPN DEPORTES FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN DEPORTES FHD" tvg-logo="https://logodix.com/logo/243375.png" group-title="ESPN",ES: ESPN DEPORTES FHD
 http://31785386944340037.niceome.xyz:80/play/va08271/4122744267/340037.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 2 SD" tvg-logo="" group-title="ES   MOVISTAR+",ES: ESPN 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 2 SD" tvg-logo="https://logodix.com/logo/243375.png" group-title="ESPN",ESPN 
 http://31785386944383258.niceome.xyz:80/play/va08271/4122744267/383258.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN SD" tvg-logo="" group-title="ES   MOVISTAR+",ES: ESPN SD
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN SD" tvg-logo="https://logodix.com/logo/243375.png" group-title="ESPN",ESPN
 http://31785386944386496.niceome.xyz:80/play/va08271/4122744267/386496.ts
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png",GOL TV
 http://31785386944165449.niceome.xyz:80/play/va08271/4122744267/165449.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="MOVISTAR FUTBOL",TV BAR HD
+http://31785386944165407.niceome.xyz:80/play/va08271/4122744267/165407.ts
 
 #EXTINF:-1 tvg-id="M LALIGA" tvg-name="M LA LIGA TV FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="MOVISTAR FUTBOL",M LA LIGA
 http://31785386944262413.niceome.xyz:80/play/va08271/4122744267/262413.ts
