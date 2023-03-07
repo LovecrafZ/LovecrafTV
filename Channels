@@ -182,7 +182,7 @@ http://31785386944165398.niceome.xyz:80/play/va08271/4122744267/165398.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones FHD
 http://31785386944262412.niceome.xyz:80/play/va08271/4122744267/262412.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4K" tvg-logo="https://https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones FHD
 http://31785386944282468.niceome.xyz:80/play/va08271/4122744267/282468.ts
 
 #EXTINF:-1 tvg-id="M Liga de Campeones" tvg-name="M Liga de Campeones" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones SD
@@ -201,8 +201,6 @@ acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 
 #EXTINF:-1 tvg-id="DAZN F1 Acestream" tvg-name="DAZN FORMULA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN F1",DAZN F1 Acestream 
 acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
-
-
 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN FORMULA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN F1",DAZN FORMULA 1
 http://31785386944165419.niceome.xyz:80/play/va08271/4122744267/165419.ts
