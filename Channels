@@ -229,14 +229,20 @@ http://31785386944320782.niceome.xyz:80/play/va08271/4122744267/320782.ts
 #EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LALIGA" tvg-logo="DAZN LALIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="MOVISTAR FUTBOL",DAZN LALIGA HD
 http://50.7.66.234:8080/nancyesp/6969/32365
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="DAZN",DAZN LALIGA 2 HD
-http://31785386944320779.niceome.xyz:80/play/va08271/4122744267/320779.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="DAZN",DAZN LALIGA FHD
+http://31785386944320782.niceome.xyz:80/play/va08271/4122744267/320782.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="DAZN",DAZN LALIGA SD
 http://31785386944320781.niceome.xyz:80/play/va08271/4122744267/320781.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="DAZN",DAZN LALIGA SD
 http://31785386944320780.niceome.xyz:80/play/va08271/4122744267/320780.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="DAZN",DAZN LALIGA 2 FHD
+http://31785386944320792.niceome.xyz:80/play/va08271/4122744267/320792.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="DAZN",DAZN LALIGA 2 HD
+http://31785386944320779.niceome.xyz:80/play/va08271/4122744267/320779.ts
 
 
 
