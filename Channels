@@ -1,13 +1,8 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="LA 1 TV" tvg-name="LA 1" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Generalistas",LA 1
-http://176.57.50.167:25461/lisastone/pumpkin1234/85857
+http://48817024759321276.stonehuge.xyz:80/play/vi101551/1875644199/321276.ts
 
-#EXTINF:-1 tvg-id="LA 1 TV" tvg-name="LA 1" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Generalistas",LA 1
-http://82674669190321276.niceome.xyz:80/play/va08271/4122744267/321276.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: La 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Generalistas",LA 1
-http://hidra.live:80/ypamzjtt/xY2597mnGj/303669
 
 #EXTINF:-1 tvg-id="LA 2.TV" tvg-name="LA 2" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="Generalistas",LA 2
 http://176.57.50.167:25461/lisastone/pumpkin1234/85858
