@@ -33,6 +33,11 @@ http://31785386944321429.niceome.xyz:80/play/va08271/4122744267/321429.ts
 http://82674669190321430.niceome.xyz:80/play/va08271/4122744267/321430.ts
 
 
+#EXTINF:-1 tvg-id="TELECINCO" tvg-name="TELECINCO" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="Generalistas",TELECINCO
+http://82674669190321430.niceome.xyz:80/play/va08271/4122744267/321431.ts
+
+
+
 #EXTINF:-1 tvg-id="LaSexta" tvg-name="LA SEXTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Generalistas",LA SEXTA
 http://176.57.50.167:25461/lisastone/pumpkin1234/85862
 
@@ -97,6 +102,13 @@ http://31785386944321136.niceome.xyz:80/play/va08271/4122744267/321136.ts
 http://31785386944411276.niceome.xyz:80/play/va08271/4122744267/411276.ts
 
 
+
+#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO" group-title="MOVISTAR+",NATIONAL GEOGRAPHIC
+http://31785386944321371.niceome.xyz:80/play/va08271/4122744267/321371.ts
+
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title="MOVISTAR+",NATIONAL GEOGRAPHIC WILD
+http://31785386944321368.niceome.xyz:80/play/va08271/4122744267/321368.ts
+
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png",CANAL COCINA
 http://31785386944321147.niceome.xyz:80/play/va08271/4122744267/321148.ts
 
@@ -108,7 +120,8 @@ http://31785386944321071.niceome.xyz:80/play/va08271/4122744267/321071.ts
 
 
 
-
+#EXTINF:-1 tvg-id="ESPN DEPORTES" tvg-name="ESPN DEPORTES FHD" tvg-logo="" group-title="ES DEPORTES",ESPN DEPORTES FHD
+http://31785386944340037.niceome.xyz:80/play/va08271/4122744267/340037.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png",GOL TV
 http://31785386944165449.niceome.xyz:80/play/va08271/4122744267/165449.ts
