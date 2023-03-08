@@ -55,6 +55,14 @@ http://48817024759321288.stonehuge.xyz:80/play/vi101551/1875644199/321288.ts
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="La Fabrica TV" tvg-logo="https://graph.facebook.com/LaFabricaTV/picture?width=200&height=200" group-title="Música",La Fabrica TV
+
+https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8
+
+
+https://graph.face
+
+
  
 #EXTINF:-1 tvg-id="M+ #0" tvg-name="M+ #0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/1200px-0_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Generalistas",M+ #0
 http://31785386944321068.niceome.xyz:80/play/va08271/4122744267/321068.ts
