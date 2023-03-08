@@ -46,13 +46,8 @@ http://176.57.50.167:25461/lisastone/pumpkin1234/85862
 #EXTINF:-1 tvg-id="" tvg-name="ES: La Sexta FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Generalistas",ES: La Sexta
 http://48817024759321288.stonehuge.xyz:80/play/vi101551/1875644199/321288.ts
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: TeleMadrid HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png" group-title="Generalistas",TeleMadrid
-http://saw.duplex-ott.net:2052/001466247265/001466247265/96158 
-
-
-#EXTINF:-1 tvg-id="M+ #0" tvg-name="M+ #0" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg" group-title="Generalistas",M+ #0
+ 
+#EXTINF:-1 tvg-id="M+ #0" tvg-name="M+ #0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png group-title="Generalistas",M+ #0
 http://31785386944321068.niceome.xyz:80/play/va08271/4122744267/321068.ts
 
 
