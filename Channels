@@ -175,17 +175,75 @@ http://31785386944165398.niceome.xyz:80/play/va08271/4122744267/165398.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones FHD
+#EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones HD
 http://31785386944262412.niceome.xyz:80/play/va08271/4122744267/262412.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones FHD
+
+#EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones HD
+http://309106742700165358.dut886.xyz:80/4BQNUACJNS/6010766685/165358
+
+#EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones FHD?
+http://309106742700165358.dut886.xyz:80/4BQNUACJNS/6010766685/165358
+
+#EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones HD
 http://31785386944282468.niceome.xyz:80/play/va08271/4122744267/282468.ts
 
-#EXTINF:-1 tvg-id="M Liga de Campeones" tvg-name="M Liga de Campeones" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones SD
+#EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones FHD?
+http://31785386944282468.niceome.xyz:80/play/va08271/4122744267/282472.ts
+
+#EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones HD
+http://309106742700282468.dut886.xyz:80/4BQNUACJNS/6010766685/282468
+
+#EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones HD
+http://309106742700262412.dut886.xyz:80/4BQNUACJNS/6010766685/262412
+
+#EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones SD
 http://31785386944165359.niceome.xyz:80/play/va08271/4122744267/165359.ts
 
-#EXTINF:-1 tvg-id="M LALIGA" tvg-name="M Liga de Campeones" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones Acestream
+#EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones SD
+http://309106742700165359.dut886.xyz:80/4BQNUACJNS/6010766685/165359
+
+#EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones SD
+http://309106742700246282.dut886.xyz:80/4BQNUACJNS/6010766685/246282
+
+#EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones Acestream
 http://127.0.0.1:6878/ace/m/e6ce265c36f88ef70de865b884dea087789e302b/84d64e0f72710005f62f28c6bebff4a7.m3u8
+
+
+#EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones 2 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones 2 FHD
+http://309106742700165365.dut886.xyz:80/4BQNUACJNS/6010766685/165365
+
+#EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones 2 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones 2 FHD
+http://309106742700282472.dut886.xyz:80/4BQNUACJNS/6010766685/282472
+
+#EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones 2 FHD
+http://309106742700282473.dut886.xyz:80/4BQNUACJNS/6010766685/282473
+
+#EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones 2 HD
+http://309106742700262412.dut886.xyz:80/4BQNUACJNS/6010766685/262412
+
+#EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones 2 HD
+http://309106742700282469.dut886.xyz:80/4BQNUACJNS/6010766685/282469
+
+#EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones 2 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones 2 SD
+http://309106742700282462.dut886.xyz:80/4BQNUACJNS/6010766685/282462
+
+#EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones 2 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones 2 SD
+http://309106742700282471.dut886.xyz:80/4BQNUACJNS/6010766685/282471
+
+#EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones 2 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones 2 SD
+http://309106742700282470.dut886.xyz:80/4BQNUACJNS/6010766685/282470
+
+#EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones 2 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones 2 SD
+http://309106742700282459.dut886.xyz:80/4BQNUACJNS/6010766685/282459
+
+#EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones 2 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones 2 SD
+http://309106742700282458.dut886.xyz:80/4BQNUACJNS/6010766685/282458
+
+
+
+
+
 
 
 
@@ -280,16 +338,13 @@ http://31785386944228399.niceome.xyz:80/play/va08271/4122744267/228399.ts
 
 
 
-#EXTINF:-1 group-title="Movistar B",LIGA DE CAMPEONES 2 FHD
-http://309106742700165365.dut886.xyz:80/4BQNUACJNS/6010766685/165365
 #EXTINF:-1 group-title="Movistar B",M+ VAMOS HD
 http://es.pp6uv.top/qw643/654grth5r/230
 #EXTINF:-1 group-title="Movistar B",M+ DEPORTES 3 SD
 http://es.pp6uv.top/qw643/654grth5r/249
 #EXTINF:-1 group-title="Movistar B",LigaSmartBank HD
 http://es.pp6uv.top/qw643/654grth5r/1778
-#EXTINF:-1 group-title="Movistar B",LIGA DE CAMPEONES 6 HD
-http://309106742700282462.dut886.xyz:80/4BQNUACJNS/6010766685/282462
+
 #EXTINF:-1 group-title="Movistar B",M+ DEPORTES FHD
 http://es.pp6uv.top/qw643/654grth5r/242
 #EXTINF:-1 group-title="Movistar B",M+ VAMOS SD
@@ -300,26 +355,20 @@ http://es.pp6uv.top/qw643/654grth5r/188
 http://es.pp6uv.top/qw643/654grth5r/1773
 #EXTINF:-1 group-title="Movistar B",M+ DEPORTES 2 SD
 http://es.pp6uv.top/qw643/654grth5r/246
-#EXTINF:-1 group-title="Movistar B",LIGA DE CAMPEONES 4 HD (OP1)
-http://309106742700282473.dut886.xyz:80/4BQNUACJNS/6010766685/282473
-#EXTINF:-1 group-title="Movistar B",LIGA DE CAMPEONES 4K
-http://309106742700282468.dut886.xyz:80/4BQNUACJNS/6010766685/282468
+
+#EXTINF:-1 group-titl
 #EXTINF:-1 group-title="Movistar B",M+ LA LIGA SD
 http://es.pp6uv.top/qw643/654grth5r/182
 #EXTINF:-1 group-title="Movistar B",LigaSmartBank FHD
 http://es.pp6uv.top/qw643/654grth5r/1772
 #EXTINF:-1 group-title="Movistar B",M+ LA LIGA 2 HD
 http://es.pp6uv.top/qw643/654grth5r/189
-#EXTINF:-1 group-title="Movistar B",LIGA DE CAMPEONES 4 HD
-http://309106742700282472.dut886.xyz:80/4BQNUACJNS/6010766685/282472
-#EXTINF:-1 group-title="Movistar B",LIGA DE CAMPEONES FHD HEVC
-http://309106742700262412.dut886.xyz:80/4BQNUACJNS/6010766685/262412
+
+
 #EXTINF:-1 group-title="Movistar B",M+ LA LIGA 4 FHD
 http://es.pp6uv.top/qw643/654grth5r/196
-#EXTINF:-1 group-title="Movistar B",LIGA DE CAMPEONES 3 HD (OP1)
-http://309106742700282471.dut886.xyz:80/4BQNUACJNS/6010766685/282471
-#EXTINF:-1 group-title="Movistar B",LIGA DE CAMPEONES SD
-http://309106742700165359.dut886.xyz:80/4BQNUACJNS/6010766685/165359
+
+
 #EXTINF:-1 group-title="Movistar B",M+ DEPORTES 5 SD
 http://es.pp6uv.top/qw643/654grth5r/255
 #EXTINF:-1 group-title="Movistar B",M+ LA LIGA 3 FHD
@@ -328,34 +377,28 @@ http://es.pp6uv.top/qw643/654grth5r/193
 http://es.pp6uv.top/qw643/654grth5r/243
 #EXTINF:-1 group-title="Movistar B",M+ LA LIGA HD
 http://es.pp6uv.top/qw643/654grth5r/183
-#EXTINF:-1 group-title="Movistar B",LIGA DE CAMPEONES 3 HD
-http://309106742700282470.dut886.xyz:80/4BQNUACJNS/6010766685/282470
-#EXTINF:-1 group-title="Movistar B",LIGA DE CAMPEONES HD
-http://309106742700165358.dut886.xyz:80/4BQNUACJNS/6010766685/165358
+
+
+
 #EXTINF:-1 group-title="Movistar B",M+ LA LIGA 2 FHD
 http://es.pp6uv.top/qw643/654grth5r/190
 #EXTINF:-1 group-title="Movistar B",LigaSmartBank1 SD
 http://es.pp6uv.top/qw643/654grth5r/1777
-#EXTINF:-1 group-title="Movistar B",LIGA DE CAMPEONES 2 SD EXTRA
-http://309106742700282459.dut886.xyz:80/4BQNUACJNS/6010766685/282459
-#EXTINF:-1 group-title="Movistar B",LIGA DE CAMPEONES FHD
-http://309106742700246282.dut886.xyz:80/4BQNUACJNS/6010766685/246282
+
+
 #EXTINF:-1 group-title="Movistar B",M+ DEPORTES HD
 http://es.pp6uv.top/qw643/654grth5r/241
 #EXTINF:-1 group-title="Movistar B",M+ DEPORTES 4 SD
 http://es.pp6uv.top/qw643/654grth5r/252
 #EXTINF:-1 group-title="Movistar B",M+ LA LIGA 1 FHD
 http://es.pp6uv.top/qw643/654grth5r/187
-#EXTINF:-1 group-title="Movistar B",LIGA DE CAMPEONES 2 SD
-http://309106742700282458.dut886.xyz:80/4BQNUACJNS/6010766685/282458
+
 #EXTINF:-1 group-title="Movistar B",M. Golf FHD
 http://supiptv.vip:8080/z9B69UMN5DZ2/fUB4KxwRgKwU/23036
 #EXTINF:-1 group-title="Movistar B",M+ DEPORTES SD
 http://es.pp6uv.top/qw643/654grth5r/240
 #EXTINF:-1 group-title="Movistar B",M+ LA LIGA FHD
 http://es.pp6uv.top/qw643/654grth5r/184
-#EXTINF:-1 group-title="Movistar B",LIGA DE CAMPEONES 2 HD
-http://309106742700282469.dut886.xyz:80/4BQNUACJNS/6010766685/282469
 #EXTINF:-1 group-title="Movistar B",M. Golf
 http://supiptv.vip:8080/z9B69UMN5DZ2/fUB4KxwRgKwU/1086
 #EXTINF:-1 group-title="Movistar B",M+ VAMOS FHD
