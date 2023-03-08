@@ -150,6 +150,9 @@ http://31785386944321071.niceome.xyz:80/play/va08271/4122744267/321071.ts
 
 
 #EXTINF:-1 tvg-id="M LALIGA" tvg-name="M LALIGA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="MOVISTAR FUTBOL",M LA LIGA FHD
+http://309106742700262412.dut886.xyz:80/4BQNUACJNS/6010766685/262413
+
+#EXTINF:-1 tvg-id="M LALIGA" tvg-name="M LALIGA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="MOVISTAR FUTBOL",M LA LIGA HD
 http://940987047242262413.stonehuge.xyz:80/play/vi101551/1875644199/262413.ts
 
 #EXTINF:-1 tvg-id="M LALIGA" tvg-name="M LALIGA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="MOVISTAR FUTBOL",M LA LIGA HD
@@ -192,9 +195,6 @@ http://309106742700262412.dut886.xyz:80/4BQNUACJNS/6010766685/262412
 
 #EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones HD
 http://940987047242262413.stonehuge.xyz:80/play/vi101551/1875644199/262412.ts
-
-#EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones HD
-http://309106742700262412.dut886.xyz:80/4BQNUACJNS/6010766685/262413
 
 #EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones SD
 http://31785386944165359.niceome.xyz:80/play/va08271/4122744267/165359.ts
