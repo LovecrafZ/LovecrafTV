@@ -178,18 +178,14 @@ http://31785386944165398.niceome.xyz:80/play/va08271/4122744267/165398.ts
 #EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones HD
 http://31785386944262412.niceome.xyz:80/play/va08271/4122744267/262412.ts
 
-
 #EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones HD
 http://309106742700165358.dut886.xyz:80/4BQNUACJNS/6010766685/165358
 
-#EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones FHD?
+#EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones HD
 http://309106742700165358.dut886.xyz:80/4BQNUACJNS/6010766685/165358
 
 #EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones HD
 http://31785386944282468.niceome.xyz:80/play/va08271/4122744267/282468.ts
-
-#EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones FHD?
-http://31785386944282468.niceome.xyz:80/play/va08271/4122744267/282472.ts
 
 #EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones HD
 http://309106742700282468.dut886.xyz:80/4BQNUACJNS/6010766685/282468
@@ -209,6 +205,10 @@ http://309106742700246282.dut886.xyz:80/4BQNUACJNS/6010766685/246282
 #EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones Acestream
 http://127.0.0.1:6878/ace/m/e6ce265c36f88ef70de865b884dea087789e302b/84d64e0f72710005f62f28c6bebff4a7.m3u8
 
+
+
+#EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES 2 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones 2 FHD
+http://31785386944282468.niceome.xyz:80/play/va08271/4122744267/282472.ts
 
 #EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones 2 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones 2 FHD
 http://309106742700165365.dut886.xyz:80/4BQNUACJNS/6010766685/165365
