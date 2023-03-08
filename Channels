@@ -7,8 +7,6 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="LA 1 TV" tvg-name="LA 1" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Generalistas",LA 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="LA 1 TV" tvg-name="LA 1" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Generalistas",LA 1
-http://48817024759321276.stonehuge.xyz:80/play/vi101551/1875644199/321276.ts
 
 #EXTINF:-1 tvg-id="LA 2.TV" tvg-name="LA 2" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="Generalistas",LA 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
@@ -16,10 +14,6 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="LA 2.TV" tvg-name="LA 2" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="Generalistas",LA 2
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="LA 2.TV" tvg-name="LA 2" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="Generalistas",LA 2
-http://82674669190321279.niceome.xyz:80/play/va08271/4122744267/321279.ts
-#EXTINF:-1 tvg-id="LA 2.TV" tvg-name="LA 2" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="Generalistas",LA 2
-http://48817024759321279.stonehuge.xyz:80/play/vi101551/1875644199/321279.ts
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="Generalistas",ANTENA 3
 http://31785386944321106.niceome.xyz:80/play/va08271/4122744267/321105.ts
@@ -48,7 +42,6 @@ http://82674669190321430.niceome.xyz:80/play/va08271/4122744267/321431.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Telecinco FHD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="Generalistas",Telecinco 
 http://48817024759321429.stonehuge.xyz:80/play/vi101551/1875644199/321429.ts
-
 
 
 #EXTINF:-1 tvg-id="LaSexta" tvg-name="LA SEXTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Generalistas",LA SEXTA
