@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="LA 1 TV" tvg-name="LA 1" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Generalistas",LA 1
 http://48817024759321276.stonehuge.xyz:80/play/vi101551/1875644199/321276.ts
+#EXTINF:-1 tvg-id="LA 1 TV" tvg-name="LA 1" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Generalistas",LA 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 
 #EXTINF:-1 tvg-id="LA 2.TV" tvg-name="LA 2" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="Generalistas",LA 2
