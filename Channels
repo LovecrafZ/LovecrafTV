@@ -174,16 +174,6 @@ http://31785386944165385.niceome.xyz:80/play/va08271/4122744267/165385.ts
 #EXTINF:-1 tvg-id="M LALIGA" tvg-name="M LA LIGA TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="MOVISTAR FUTBOL",M LA LIGA SD
 http://31785386944165392.niceome.xyz:80/play/va08271/4122744267/165392.ts
 
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="DAZN",DAZN LALIGA 
-http://31785386944320792.niceome.xyz:80/play/va08271/4122744267/320791.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="DAZN",DAZN LALIGA 
-http://31785386944320792.niceome.xyz:80/play/va08271/4122744267/320793.ts
-
-
-
-
 #EXTINF:-1 tvg-id="M LALIGA" tvg-name="M LA LIGA TV SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="MOVISTAR FUTBOL",M LA LIGA SD
 http://31785386944165393.niceome.xyz:80/play/va08271/4122744267/165393.ts
 
