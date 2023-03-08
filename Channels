@@ -127,10 +127,6 @@ http://31785386944339761.niceome.xyz:80/play/va08271/4122744267/339761.ts
 http://31785386944321147.niceome.xyz:80/play/va08271/4122744267/321148.ts
 
 
-#EXTINF:-1 tvg-id="VAMOS" tvg-name="#VAMOS" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD",#VAMOS FHD
-http://31785386944321071.niceome.xyz:80/play/va08271/4122744267/321071.ts
-
-
 
 #EXTINF:-1 tvg-id="ESPN DEPORTES" tvg-name="ESPN DEPORTES FHD" tvg-logo="https://logodix.com/logo/243375.png" group-title="ESPN",ESPN DEPORTES HD
 http://31785386944340037.niceome.xyz:80/play/va08271/4122744267/340037.ts
