@@ -140,18 +140,29 @@ http://31785386944339761.niceome.xyz:80/play/va08271/4122744267/339761.ts
 http://31785386944321147.niceome.xyz:80/play/va08271/4122744267/321148.ts
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="https://logodix.com/logo/243375.png" group-title="ESPN",ESPN 2 Acestream
+664eb5fe460b96941aed633959a845b185cd8394
 
 #EXTINF:-1 tvg-id="ESPN DEPORTES" tvg-name="ESPN DEPORTES FHD" tvg-logo="https://logodix.com/logo/243375.png" group-title="ESPN",ESPN DEPORTES HD
 http://31785386944340037.niceome.xyz:80/play/va08271/4122744267/340037.ts
 
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: ESPN HD" tvg-logo="https://logodix.com/logo/243375.png" group-title="ESPN",ESPN HD
 http://31785386944329144.niceome.xyz:80/play/va08271/4122744267/329144.ts
-
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: ESPN SD" tvg-logo="https://logodix.com/logo/243375.png" group-title="ESPN",ESPN
 http://31785386944386496.niceome.xyz:80/play/va08271/4122744267/386496.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://logodix.com/logo/243375.png" group-title="ESPN",Sky Sport F1 Acestream
+b04372b9543d763bd2dbd2a1842d9723fd080076
+
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport" tvg-logo="https://logodix.com/logo/243375.png" group-title="ESPN",Digi Sport Acestream
+5de76e366b44da7f88363a74aa2fa1bef30395fe
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV Acestream" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="MOVISTAR FUTBOL",GOL TV Acestream
+d4627f7b6b237a8556819445b3283d866caceca2
 
 
 #EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="MOVISTAR FUTBOL",GOL TV
@@ -203,6 +214,9 @@ http://31785386944165398.niceome.xyz:80/play/va08271/4122744267/165398.ts
 
 
 
+#EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES Acesteam" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones Acestream
+444b51b2606cba9efb1b4ff56bf652cbc02a5f47
+
 #EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones HD
 http://31785386944262412.niceome.xyz:80/play/va08271/4122744267/262412.ts
 
@@ -230,10 +244,10 @@ http://309106742700165359.dut886.xyz:80/4BQNUACJNS/6010766685/165359
 #EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones SD
 http://309106742700246282.dut886.xyz:80/4BQNUACJNS/6010766685/246282
 
-#EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones Acestream
-http://127.0.0.1:6878/ace/m/e6ce265c36f88ef70de865b884dea087789e302b/84d64e0f72710005f62f28c6bebff4a7.m3u8
 
 
+#EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES 2 acestream" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones 2 Acestream
+dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 
 #EXTINF:-1 tvg-id="M" tvg-name="LIGA DE CAMPEONES 2 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones 2 FHD
 http://31785386944282468.niceome.xyz:80/play/va08271/4122744267/282472.ts
@@ -269,6 +283,9 @@ http://309106742700282459.dut886.xyz:80/4BQNUACJNS/6010766685/282459
 http://309106742700282458.dut886.xyz:80/4BQNUACJNS/6010766685/282458
 
 
+#EXTINF:-1 tvg-id="M" tvg-name="Liga de Campeones 3 Acestream" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="MOVISTAR FUTBOL",Liga de Campeones 3 Acestream
+ecf4ec41200785812c140e3d1050b412f1519fa7
+
 
 
 
@@ -276,13 +293,23 @@ http://309106742700282458.dut886.xyz:80/4BQNUACJNS/6010766685/282458
 
 
 #EXTINF:-1 tvg-id="DAZN F1 Acestream" tvg-name="DAZN FORMULA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN F1",DAZN F1 Acestream
-acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
+#BelgianGP
+2bb483350a420da686c5ec597c0ebb729fe908b3
+
+#EXTINF:-1 tvg-id="DAZN F1 Acestream" tvg-name="DAZN FORMULA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN F1",DAZN F1 Acestream
+c372020ed2744033f56548b6beb11a9f3e740f37
+
+#EXTINF:-1 tvg-id="DAZN F1 Acestream" tvg-name="DAZN FORMULA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN F1",DAZN F1 Acestream
+5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 
 #EXTINF:-1 tvg-id="DAZN F1 Acestream" tvg-name="DAZN FORMULA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN F1",DAZN F1 Acestream 
-acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
+ffaa5f556ee0497ad905208d317b1f3ed4c0914b
 
 #EXTINF:-1 tvg-id="DAZN F1 Acestream" tvg-name="DAZN FORMULA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN F1",DAZN F1 Acestream 
-acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
+a4d17dec3b341fb4c10afab81068dca29c5e9a4a
+
+
+
 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN FORMULA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN F1",DAZN FORMULA 1
 http://31785386944165419.niceome.xyz:80/play/va08271/4122744267/165419.ts
@@ -321,15 +348,20 @@ http://31785386944320792.niceome.xyz:80/play/va08271/4122744267/320792.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 1 Acestream" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="DAZN",DAZN 1 Acestream
 8b2e003ef51657196d2096aa84b9b21ae4bfb660
 
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 1" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="DAZN",DAZN 1 FHD
 http://31785386944373766.niceome.xyz:80/play/va08271/4122744267/373766.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 1" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="DAZN",DAZN 1 FHD
 http://31785386944228390.niceome.xyz:80/play/va08271/4122744267/228390.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 2 Acestream" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="DAZN",DAZN 2 Acestream
+3f68c1aa02094e253fd8446c0c307089cecf2a1e
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 2" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png" group-title="DAZN",DAZN 2 SD  
 http://31785386944228391.niceome.xyz:80/play/va08271/4122744267/228391.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 3 Acestream" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png" group-title="DAZN",DAZN 3 Acestream  
+bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-3-espana-es.png" group-title="DAZN",DAZN 3 FHD
 http://31785386944228393.niceome.xyz:80/play/va08271/4122744267/228393.ts
@@ -339,6 +371,9 @@ http://31785386944228394.niceome.xyz:80/play/va08271/4122744267/228394.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-3-espana-es.png" group-title="DAZN",DAZN 3 SD
 http://31785386944228395.niceome.xyz:80/play/va08271/4122744267/228395.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 4 Acestream" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png" group-title="DAZN",DAZN 4 Acestream  
+149a38e333de920753f1388c43247283bdb05f5b
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-4-espana-es.png" group-title="DAZN",DAZN 4 FHD
 http://31785386944228397.niceome.xyz:80/play/va08271/4122744267/228397.ts
