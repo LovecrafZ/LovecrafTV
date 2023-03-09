@@ -138,6 +138,18 @@ http://31785386944339761.niceome.xyz:80/play/va08271/4122744267/339761.ts
 #EXTINF:-1 tvg-id="Odisea" tvg-name="HISTORIA" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA", group-title="Documentales",Odisea
 http://744470769846321388.stonehuge.xyz:80/play/va08271/4122744267/321388.ts
 
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCR" group-title="Documentales",DISCOVERY
+http://440723869202321210.stonehuge.xyz:80/play/va08271/4122744267/321210.ts
+
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="ES: AMC CRIMED" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYM.png" group-title="Documentales",AMC CRIME
+http://440723869202386495.stonehuge.xyz:80/play/va08271/4122744267/386495.ts
+
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES: AMC BREAK FHD" tvg-logo="https://miguia.tv/channels/big_15.png" group-title="Documentales",AMC BREAK 
+http://440723869202336283.stonehuge.xyz:80/play/va08271/4122744267/336283.ts
+
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="ES: DMAX FHD" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/dmax-h.jpg?w=300&ssl=1" group-"Documentales",DMAX
+http://440723869202321225.stonehuge.xyz:80/play/va08271/4122744267/321225.ts
+
 
 #EXTINF:-1 tvg-id="Amazonas Clandestino" tvg-name="Amazonas clandestino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Amaszonas_Linea_Aerea_Logo.svg/2560px-Amaszonas_Linea_Aerea_Logo.svg.png", group-title="24 horas 7 dias",Amazonas Clandestino
 http://72659869118422859.stonehuge.xyz:80/play/va08271/4122744267/422859.ts
@@ -167,6 +179,18 @@ http://440723869202419897.stonehuge.xyz:80/play/va08271/4122744267/419897.ts
 
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png", group-title="Estilo de vida",Canal Cocina
 http://31785386944321147.niceome.xyz:80/play/va08271/4122744267/321148.ts
+
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/BEMAD" group-title="Estilo de vida",BE MAD 
+http://440723869202321125.stonehuge.xyz:80/play/va08271/4122744267/321125.ts
+
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="DECASA " tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="Estilo de vida",ES: DECASA 
+http://440723869202321204.stonehuge.xyz:80/play/va08271/4122744267/321204.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DKISS " tvg-logo="https://miguia.tv/channels/big_279.png" group-title="Estilo de vida",ES: DKISS 
+http://440723869202389855.stonehuge.xyz:80/play/va08271/4122744267/389855.ts
+
+#EXTINF:-1 tvg-id="TEN.TV" tvg-name="ES: TEN SD" tvg-logo="http://www1.movistarplus.es/recorte/m-NEO/canal/TEN" group-title="Estilo de vida",TEN
+http://440723869202321440.stonehuge.xyz:80/play/va08271/4122744267/321440.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="https://logodix.com/logo/243375.png" group-title="Deportes por Acestream",ESPN 2 Acestream
