@@ -163,8 +163,11 @@ f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 tvg-id="VAMOS" tvg-name="#VAMOS" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="MOVISTAR FUTBOL",#VAMOS
 http://31785386944321071.niceome.xyz:80/play/va08271/4122744267/321071.ts
 
-#EXTINF:-1 tvg-id="VAMOS" tvg-name="M.Deportes Acestream" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="MOVISTAR FUTBOL",M. Deportes Acestream
+#EXTINF:-1 tvg-id="M. Deportes Acestream" tvg-name="M.Deportes Acestream" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="MOVISTAR FUTBOL",M. Deportes Acestream
 8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+
+#EXTINF:-1 tvg-id="M. Deportes 2 Acestream" tvg-name="M.Deportes 2 Acestream" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="MOVISTAR FUTBOL",M. Deportes 2 Acestream
+f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
 
 
 
