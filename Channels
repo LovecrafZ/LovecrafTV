@@ -56,22 +56,15 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTINF:-1 tvg-id="" tvg-name="LaOtra" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg" group-title="Generalistas",La Otra
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LaOtra" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas",La Otra
+#EXTINF:-1 tvg-id="" tvg-name="ElToroTV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas",El Toro TV
 https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Negocios Tv" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="Generalistas",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="La Fabrica TV" tvg-logo="https://graph.facebook.com/LaFabricaTV/picture?width=200&height=200" group-title="Música",La Fabrica TV
-
 https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8
 
-
-https://graph.face
-
-
- 
 #EXTINF:-1 tvg-id="M+ #0" tvg-name="M+ #0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/1200px-0_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Generalistas",M+ #0
 http://31785386944321068.niceome.xyz:80/play/va08271/4122744267/321068.ts
 
