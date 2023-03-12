@@ -77,6 +77,33 @@ http://42041825131310179.stonehuge.xyz:80/play/vi03311/2398755/310179.ts
 http://20526969489272504.stonehuge.xyz:80/play/va08271/4122744267/272504.ts
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 1
+https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 2
+https://master-eu-ctr.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 3
+https://master-eu-ctr.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 4
+https://master-eu-ctr.worldcast.tv/dancetelevisionfour/dancetelevisionfour.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 5
+https://master-eu-ctr.worldcast.tv/dancetelevisionfive/dancetelevisionfive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 6
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 7
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 8
+https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 9
+https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
+
 
 
 #EXTINF:-1 tvg-id="M+ Estrenos" tvg-name="M+ ESTRENOS" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1", group-title="M Cine",M+ ESTRENOS 
