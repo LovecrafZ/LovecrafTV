@@ -154,6 +154,9 @@ http://440723869202321225.stonehuge.xyz:80/play/va08271/4122744267/321225.ts
 #EXTINF:-1 tvg-id="Amazonas Clandestino" tvg-name="Amazonas clandestino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Amaszonas_Linea_Aerea_Logo.svg/2560px-Amaszonas_Linea_Aerea_Logo.svg.png", group-title="24 horas 7 dias",Amazonas Clandestino
 http://72659869118422859.stonehuge.xyz:80/play/va08271/4122744267/422859.ts
 
+#EXTINF:-1 tvg-id="En tierra hostil" tvg-name="En tierra hostil" tvg-logo="https://pbs.twimg.com/profile_images/630459315812442112/-92IHlOR_400x400.png", group-title="24 horas 7 dias",En tierra hostil
+https://pbs.twimg.com/profile_images/1603431402283802642/fHYb1o-i_400x400.jpg
+
 
 #EXTINF:-1 tvg-id="CUARTO MILENIO" tvg-name="CUARTO MILENIO" tvg-logo="https://pbs.twimg.com/profile_images/1245856204821278721/lA5gcC7E_400x400.jpg" group-title="24 horas 7 dias",CUARTO MILENIO
 http://440723869202419878.stonehuge.xyz:80/play/va08271/4122744267/419878.ts
