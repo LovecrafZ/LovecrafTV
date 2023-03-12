@@ -209,7 +209,8 @@ http://20526969489419883.stonehuge.xyz:80/play/va08271/4122744267/419883.ts
 
 
 
-
+#EXTINF:-1 tvg-id="MYZen TV" tvg-name="MYZen TV" tvg-logo="https://i.imgur.com/fIi8o0C.png", group-title="Estilo de vida",MYZen TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png", group-title="Estilo de vida",Canal Cocina
 http://31785386944321147.niceome.xyz:80/play/va08271/4122744267/321148.ts
