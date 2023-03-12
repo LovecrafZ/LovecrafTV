@@ -69,39 +69,32 @@ http://31785386944321068.niceome.xyz:80/play/va08271/4122744267/321068.ts
 #EXTINF:-1 tvg-id="" tvg-name="1Muz" tvg-logo="https://pbs.twimg.com/profile_images/689820176389423105/FaPDL4TF_400x400.png" group-title="Música",1Muz
 http://20526969489276234.stonehuge.xyz:80/play/va08271/4122744267/276234.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Trippin" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Música",Trippin
-http://42041825131310179.stonehuge.xyz:80/play/vi03311/2398755/310179.ts
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Ocko" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Ocko
-http://20526969489272504.stonehuge.xyz:80/play/va08271/4122744267/272504.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 1
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Música",Danve TV 1
 https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 2
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Música",Danve TV 2
 https://master-eu-ctr.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 3
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Música",Danve TV 3
 https://master-eu-ctr.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 4
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Música",Danve TV 4
 https://master-eu-ctr.worldcast.tv/dancetelevisionfour/dancetelevisionfour.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 5
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Música",Danve TV 5
 https://master-eu-ctr.worldcast.tv/dancetelevisionfive/dancetelevisionfive.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 6
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Música",Danve TV 6
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 7
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Música",Danve TV 7
 https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 8
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Música",Danve TV 8
 https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png" group-title="Música",Danve TV 9
+#EXTINF:-1 tvg-id="" tvg-name="Danve TV" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Música",Danve TV 9
 https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
 
 
