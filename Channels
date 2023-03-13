@@ -66,6 +66,19 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 http://31785386944321068.niceome.xyz:80/play/va08271/4122744267/321068.ts
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Rock Clásico" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/0079d02e-afb6-4d85-a986-441817927418/stingray-classic-rock_logo_dark.png" group-title="Música",Rock Clásico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=EKc2ss-t_K3w6M4TQvDr&custom_7=61aaa0cc784a2161d3caf7ff&is_lat=0
+
+#EXTINF:-1 tvg-id="" tvg-name="Greatest hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/65eac556-463a-4298-b199-b125bf0633a3/8530_SM_Plex_Music-Channels__0010_Logos_Color_1500x1000_Greatest-Hits_darkback.png" group-title="Música",Greatest hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=EKc2ss-t_K3w6M4TQvDr&custom_7=61aa97d4113e1e5137fd5325&is_lat=0
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Legends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-title="Música",Legends
+https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8?ads.X-PLEX-TOKEN=EKc2ss-t_K3w6M4TQvDr&ads.CHANNEL=6196c8c01d310bf925e02615&ads.DEVICE_ID=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.DNT=0
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="1Muz" tvg-logo="https://pbs.twimg.com/profile_images/689820176389423105/FaPDL4TF_400x400.png" group-title="Música",1Muz
 http://20526969489276234.stonehuge.xyz:80/play/va08271/4122744267/276234.ts
 
