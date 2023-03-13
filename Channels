@@ -16,7 +16,7 @@ https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="Generalistas",ANTENA 3
-http://31785386944321106.niceome.xyz:80/play/va08271/4122744267/321105.m3u8
+http://31785386944321106.niceome.xyz:80/play/va08271/4122744267/321105.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 FHD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="Generalistas",Antena 3
 http://48817024759321105.stonehuge.xyz:80/play/vi101551/1875644199/321105.ts
